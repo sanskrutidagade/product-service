@@ -23,21 +23,21 @@ Postman (API testing)
 
 📂 Project Structure
 src/main/java/com.springboot.productservice
-│
+│              
 ├── controller
-│   └── ProductController.java
-│
-├── service
-│   └── ProductService.java
-│   └── ProductServiceImpl.java
-│
-├── repository
-│   └── ProductRepository.java
-│
-├── entity
-│   └── Product.java
-│
-└── ProductServiceApplication.java
+│   └── ProductController.java           
+│                                                                                                                                           
+├── service                                                                                                                                
+│   └── ProductService.java                                                                                                                  
+│   └── ProductServiceImpl.java                                                                                                                
+│                                                                                                                                              
+├── repository                                                                                                                                  
+│   └── ProductRepository.java                                                                                                                  
+│                                                                                                                                                
+├── entity                                                                                                                                       
+│   └── Product.java                                                                                                                             
+│                                                                                                                                                
+└── ProductServiceApplication.java                                                                                                               
 
 🔧 How to Run
 1. Clone the repository
