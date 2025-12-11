@@ -49,6 +49,7 @@ src/main/java/com.springboot.productservice
 5. Test APIs using Postman
 
 📡 API Endpoints
+
 Create Product
 POST /api/products
 Body:
