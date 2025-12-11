@@ -73,6 +73,7 @@ DELETE /api/products/{id}
 This is the first microservice in a multi-service architecture.
 Next services (Order Service, API communication, Eureka, Feign) will be added later.
 
+
 👤 Developer
 Sanskruti Dagade — Java & Spring Boot Developer
 https://www.linkedin.com/in/sanskrutidagade
