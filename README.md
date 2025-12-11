@@ -57,6 +57,7 @@ Body:
   "price": 50000,
   "quantity": 1
 }
+
 Get All Products
 GET /api/products
 
