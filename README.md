@@ -1,16 +1,29 @@
 📘 Product Service – Spring Boot Microservice
+
 A simple Spring Boot microservice providing CRUD operations for managing products.
+
 Built using Spring Boot, JPA, H2 database, and layered architecture.
+
 🚀 Features
+
 Create a new product
+
 Get a product by ID
+
 Get all products
+
 Update a product
+
 Delete a product
+
 In-memory H2 database
+
 JPA repository
+
 Service-layer business logic
+
 REST Controller using JSON APIs
+
 🏗 Tech Stack
 Java 17
 Spring Boot
